@@ -1,10 +1,9 @@
 import React from 'react';
+import Rotas from './Rotas';
 
 function App(){
   return(
-    <div>
-      Olá mundo!
-    </div>
+    <Rotas/>
   );
 }
 
